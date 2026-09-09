@@ -1,0 +1,6 @@
+# Los .sql siembran dim_mrr (MRR por cliente) y otras dimensiones: nunca al repo.
+# GitHub Pages sirve todo lo que hay en la rama, aunque el repo sea privado.
+*.sql
+# Variante completa del mapa (con la foto incrustada): solo para uso local.
+_local/
+mapa_tickets_v*.html
