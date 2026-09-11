@@ -4,3 +4,5 @@
 # Variante completa del mapa (con la foto incrustada): solo para uso local.
 _local/
 mapa_tickets_v*.html
+# Carpeta donde la app de Claude deja los archivos enviados al chat (capturas, etc.): nunca al repo.
+Claude outputs/
